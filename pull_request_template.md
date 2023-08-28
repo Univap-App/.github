@@ -7,9 +7,7 @@
 - [ ] Bugfixes
 - [ ] Alteração de features
 - [ ] Rollbacks
-- [ ] Outros
-
-*Explicar tipo de alteração.*
+- [ ] Outros: *Explicar tipo de alteração.*
 
 ## 📖 Descrição das alterações
 
